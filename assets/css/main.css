@@ -4079,3 +4079,11 @@ body.is-mobile.landing #footer {
 .header-logo {
     padding-left: 2em;
 }
+
+.sponsors {
+    text-align: center;
+}
+
+.sponsors-logo {
+  margin-left: 3%;
+}
